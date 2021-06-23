@@ -1,0 +1,13 @@
+﻿  Camera.cpp
+  Component.cpp
+  Light.cpp
+  MeshRenderer.cpp
+  Transform.cpp
+  GameObject.cpp
+  Graphics.cpp
+  Merlin.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+D:\_Uni\_y3\Semester 2\GameEngineDev\Repos\Merlin\libraries\glfw-3.1.2.bin.WIN32\include\GLFW\glfw3.h(85): message : see previous definition of 'APIENTRY'
+  Level.cpp
+  Generating Code...
+  Merlin.vcxproj -> D:\_Uni\_y3\Semester 2\GameEngineDev\Repos\Merlin\Debug\Merlin.exe
